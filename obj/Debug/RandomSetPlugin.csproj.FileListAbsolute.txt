@@ -1,0 +1,11 @@
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\bin\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\bin\Debug\ExamplePacketPlugin.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\RandomSetPlugin.csprojAssemblyReference.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\RandomSetPlugin.csproj.GenerateResource.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\RandomSetPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\RandomSetPlugin.csproj.CopyComplete
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\RandomSetPlugin\obj\Debug\ExamplePacketPlugin.pdb
